@@ -2,7 +2,7 @@
 
 <p align="center">
 <b>A crucible of knowledge, a space for reading, and a horizon from the memory of the past to the possibilities of the future.</b><br>
-<a href="https://ishraqa.app">ishraqa.app</a> · <a href="https://play.google.com/store/apps/details?id=com.taeziz.ishraqa">Google Play</a> · <a href="https://www.npmjs.com/package/ishraqa">npm</a>
+<a href="https://ishraqa.app">ishraqa.app</a> · <a href="https://play.google.com/store/apps/details?id=com.taeziz.ishraqa">Google Play</a>
 </p>
 
 <table>
